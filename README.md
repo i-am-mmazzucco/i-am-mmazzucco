@@ -41,7 +41,7 @@
 
 <br/><br/>
 
-[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mateomazzucco11&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/mateomazzucco11)
+[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=i-am-mazzucco&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/mateomazzucco11)
 
 <br/>
 
@@ -49,7 +49,7 @@
 
 <img src="https://media4.giphy.com/media/a8rlSHPozsTEuh1ibJ/giphy.gif?cid=ecf05e47iz3q1ssypsjjqilu8g0psfyok32t9atrfod8nh1z&rid=giphy.gif&ct=g" width="350" align='right'>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateomazzucco11&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-mazzucco&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 <br><br>
 
