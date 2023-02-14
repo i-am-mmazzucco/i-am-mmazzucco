@@ -23,7 +23,7 @@
 
 - 🌐 &nbsp; React.js | React Native | Redux | Next.js
 
-- 🌐 &nbsp; MySQL | MongooDB
+- 🌐 &nbsp; MySQL | MongoDB
 
 - 🌐 &nbsp; AWS | GCP | Terraform
 
