@@ -6,11 +6,11 @@
 
 
 
-- 🤔 &nbsp; Passionate software developer with a curiosity for exploring new technologies and developing innovative software solutions.
+- 🤔 &nbsp;Passionate software developer with a curiosity for exploring new technologies and developing innovative software solutions.
 
-- 🎓 &nbsp; Currently studying Software Engineering to further develop skills and knowledge.
+- 🎓 &nbsp;Currently studying Software Engineering to further develop skills and knowledge.
 
-- 🌱 &nbsp; Expanding expertise in frontend development and backend architectures to design and implement robust software systems.
+- 🌱 &nbsp;Expanding expertise in frontend development and backend architectures to design and implement robust software systems.
 
 
 
